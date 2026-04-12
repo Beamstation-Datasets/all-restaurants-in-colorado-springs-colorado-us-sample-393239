@@ -1,0 +1,12 @@
+{
+  "export_job_id": "640ca7db-1d64-4a6b-b443-68f06ebae7bd",
+  "id_short": 393239,
+  "published_at": "2026-04-12T19:03:52Z",
+  "repo_name": "all-restaurants-in-colorado-springs-colorado-us-sample-393239",
+  "sample_asset_name": "beamstation_393239_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/393239/beamstation_393239_restaurants-us-co_SAMPLE_DIST.csv",
+  "sample_records": 25,
+  "sample_sha256": "0e9fad5922084e2a35e0ddbf1683e06b9139d80e11d36e8800b30a11dbe7a02a",
+  "sample_size_bytes": 116078,
+  "total_records": 1214
+}
